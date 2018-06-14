@@ -27,7 +27,5 @@ window.Vue = require('vue');
 //     	user:{},
 
 //     }
-
-
-
+ 
 // });
